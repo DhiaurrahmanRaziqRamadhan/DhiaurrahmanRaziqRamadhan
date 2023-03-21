@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raziq</h1>
--  I’m interesting in Full stack Web Developer and UI/UX
+
+- 🔭 I’m interesting in **Full stack Web Developer and UI/UX**
 - 🌱 I’m currently learning **HTML, CSS, PHP**
 
 <h3 align="left">Connect with me:</h3>
